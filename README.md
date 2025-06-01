@@ -4,7 +4,7 @@
   <body>
     <h3>by Maira Mumtaz | Just now</h3>
     <h1>Strange Lights Appear Over Karachi’s Night Sky</h1>
-   <img src="https://strangesounds.org/wp-content/uploads/2016/01/blue-ufo-light-bogota-6.jpg" alt="Blue UFO light in Bogota">
+   <img src="https://strangesounds.org/wp-content/uploads/2016/01/blue-ufo-light-bogota-6.jpg" alt="Strange light hover over Karachi">
     <p>Last night, residents of Karachi witnessed a breathtaking and mysterious light show in the sky. Bright, colorful orbs moved silently in patterns never seen before.</p>
     <h2>Eyewitness Reactions</h2>
     <p>Residents from different areas reported seeing glowing spheres of green, blue, and purple drifting slowly and silently above their neighborhoods. Many described the lights moving smoothly and changing colors with remarkable precision.</p>
@@ -19,7 +19,6 @@
     <p>Local authorities have also reported no unusual aircraft activity during the time of the event, deepening the mystery and fueling speculation on social media about extraterrestrial origins.</p>
     <p>“It felt magical and a little spooky,” said Muhammad Faeez, one eyewitness from Gulshan-e-Iqbal. “I’ve never seen anything like it in my life.”</p>
     <p>As the mystery grows, scientists and skywatchers are eager to investigate further. For now, Karachi residents are left amazed and curious.</p>
-    <h4>Theories About the Lights</h4>
     <h2>Theories About the Lights</h2>
 <ul>
   <li><strong>Cutting-edge drone technology:</strong> Some believe a tech company tested advanced drones capable of silent, coordinated light displays.</li>
