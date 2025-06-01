@@ -1,5 +1,4 @@
 # Mysterious-Lights-Over-Karachi
-<!DOCTYPE html>
 <html>
   <body>
     <h3>by Maira Mumtaz | Just now</h3>
